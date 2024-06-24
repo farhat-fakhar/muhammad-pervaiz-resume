@@ -249,7 +249,7 @@ h3 {
 #hero {
   height: 100vh;
   background-color: #efeee5;
-  background: url(../assets/img/hero.jpg);
+  background: url(./assets/img/hero.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 }
